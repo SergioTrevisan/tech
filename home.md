@@ -1,3 +1,7 @@
+layout: page
+title: "home"
+permalink: https://sergiotrevisan.github.io/home
+
 <!doctype html>
 <html lang="en">
   <head>
