@@ -17,7 +17,7 @@ permalink: https://sergiotrevisan.github.io/home
   
 </head>
 
-  <body>      <img src="./daenerys.jpeg" alt="Motivational Image" />
+  <body>      <img src="./daenerys.jpeg" alt="home page image" />
 
     <div class="libre-baskerville">
     <h1 > Motivational Quote</h1>
